@@ -25,7 +25,9 @@
  2. What is LSTM?
  3. What is CNN?
  4. Working: -
+ 
           (a) LSTM structue.
+          
           (b) CNN structure.
   5. Results.
   6. Application.
