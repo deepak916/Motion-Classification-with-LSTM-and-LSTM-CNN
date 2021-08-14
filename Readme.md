@@ -2,9 +2,9 @@
 
 ![HAR](https://camo.githubusercontent.com/79793dddf3ce2ce2220bf50b3d8c1d2747cb2c60d7454ff8dcc30a92fa09ab6a/68747470733a2f2f7777772e616e64726f6964686976652e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031372f31322f616e64726f69642d757365722d61637469766974792d7265636f676e6974696f6e2d7374696c6c2d77616c6b696e672d72756e6e696e672d64726976696e672e6a7067)
 
-### This Project is done with two approaches: -
-### 1. First is using LSTM deep learning architecture.
-### 2. Second is with LSTM-CNN architecture.
+**This Project is done with two approaches: -**
+**1. First is using LSTM deep learning architecture.**
+**2. Second is with LSTM-CNN architecture.**
 
 
 
@@ -83,7 +83,7 @@ List of **activityIDs** and corresponding activities:
  
 ## 2. LSTM: -
 
-## LSTM Network
+**LSTM Network**
 
 Long Short Term Memory networks – usually just called “LSTMs” – are a special kind of RNN, capable of learning long-term dependencies. They were introduced in  (1997), and were refined and popularized by many people in following work. They work tremendously well on a large variety of problems, and are now widely used.
 
@@ -95,7 +95,7 @@ Learn more about LSTM [here](https://www.geeksforgeeks.org/deep-learning-introdu
 
 ## 3. CNN: -
 
-## CNN Network
+**CNN Network**
 
 A convolutional neural network (CNN) is a type of  artificial neural network used in image recognitionand processing that is specifically designed to process pixel data.
 
@@ -212,8 +212,8 @@ Application of *Human Activity Recognition* are as follows: -
 ## 7. Enhancement
 
 In order to achieve more accurate results one can go for trying different deep learning algorithm or some modification in the existing method like trying: -
-> LSTM-CNN approach
-> SVM approach
-> Different datasets etc...
+1. LSTM-CNN approach
+2. SVM approach
+3. Different datasets etc...
 
 
